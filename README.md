@@ -1,3 +1,4 @@
+# Description ... 
 # Different Approaches to predict malignous breast cancers based on Kaggle dataset
 This project is started with the goal use machine learning algorithms and learn how to optimize the tuning params and also and hopefully to help some diagnoses.
 
@@ -18,11 +19,11 @@ This different results are caused by the shuffling of the elements. That is Nece
 Each algorithm work trainset on 70% of initial dataset and it is tested with the 30%.
 
 
-###How to
-To run the scripts you just type:
-```python
-python script_name.py
-```
-As result of execution the reached accuracy will print
+# How to execute ...  
+To run the scripts you just type in your anaconda environment (prompt):
+python imlproject.py
 
-* the dataset can be found [here](https://www.kaggle.com/uciml/breast-cancer-wisconsin-data)
+As result of execution the reached accuracy will print
+# dataset 
+the dataset can be found (https://www.kaggle.com/uciml/breast-cancer-wisconsin-data)
+
