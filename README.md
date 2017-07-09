@@ -1,4 +1,10 @@
-# Description ... 
+# Members
+1. Zarsha Nazim
+2. Abdul Rehman Shehzad
+3. Malik Aftab Ali
+4. Muhammad Umair Qureshi
+
+# Description
 # Different Approaches to predict malignous breast cancers based on Kaggle dataset
 This project is started with the goal use machine learning algorithms and learn how to optimize the tuning params and also and hopefully to help some diagnoses.
 
@@ -18,7 +24,7 @@ This different results are caused by the shuffling of the elements. That is Nece
 
 Each algorithm work trainset on 70% of initial dataset and it is tested with the 30%.
 
-# dataset 
+# Dataset 
 the dataset can be found (https://www.kaggle.com/uciml/breast-cancer-wisconsin-data)
 
 # Description about Data
