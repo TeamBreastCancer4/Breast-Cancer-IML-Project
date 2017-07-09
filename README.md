@@ -42,4 +42,16 @@ python imlproject.py
 As result of execution the reached accuracy will print
 
 # Execution and Output of Code
+while the given code is executed, it sync users with a set of images as well. images which describe the working of code so user can understand easily what is happening. 
+the very first image differnetiate between features
+second image coorelate features with respect to colouring sceheme, color is given to feature with respect to its distance from another feature.
+third image shows accuracy comparison of those classifier which are used in this code (mentioned below)
+1. CART classifier 
+2. Support Vectore Machine (SVM)
+3. Naive Bayes (NB)
+4. KNN 
+accuracy by each classifier is also shown on console
 
+and then last image again shows comparison of all four classifer, well the accuracy of all the three classifier except SVM are more than 90%, but SVM's fall between 60 ~ 70 % , so data is scaled and then accuracy is calculated again, now this time SVM shows something different to see execute code. ;-)  
+
+SVM is then applied on training dataset and output is in  the form of accuracy which is almost 99% 
