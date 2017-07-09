@@ -43,6 +43,9 @@ As result of execution the reached accuracy will print
 
 # Execution and Output of Code
 while the given code is executed, it sync users with a set of images as well. images which describe the working of code so user can understand easily what is happening. 
+
+(* images are added with names 1.png 2.png 3.png and 4.png) 
+
 the very first image differnetiate between features
 second image coorelate features with respect to colouring sceheme, color is given to feature with respect to its distance from another feature.
 third image shows accuracy comparison of those classifier which are used in this code (mentioned below)
