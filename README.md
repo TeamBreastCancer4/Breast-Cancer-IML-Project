@@ -19,11 +19,15 @@ This different results are caused by the shuffling of the elements. That is Nece
 Each algorithm work trainset on 70% of initial dataset and it is tested with the 30%.
 
 
-# How to execute ...  
+# How to execute ...
+first make sure that code file i.e. imlproject.py and file containing data i.e. data.csv are present in the same file or directory, then set path of anaconda environment to that specific path and then follow the given instruction below: 
 To run the scripts you just type in your anaconda environment (prompt):
 python imlproject.py
 
 As result of execution the reached accuracy will print
 # dataset 
 the dataset can be found (https://www.kaggle.com/uciml/breast-cancer-wisconsin-data)
+
+#Description about Data
+Given data is in excel sheet having integer values as well as floating point values in it. there are total 33 features in given data and 569 rows. 
 
